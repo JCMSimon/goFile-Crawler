@@ -10,11 +10,6 @@ from selenium.common.exceptions import TimeoutException
 from string import ascii_letters, digits
 
 
-#Duchessified™
-# i memorised the ™ alt code dont @ me
-
-# i said dont get mad, but what
-
 
 
 def genURLCode():
